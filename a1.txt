@@ -1,2 +1,2 @@
-this is a1 file
-merging
+this is a1 file.
+merging Adding this line to test the merge conflicts
