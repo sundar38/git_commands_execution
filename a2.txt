@@ -1,1 +1,2 @@
-this is a2 file modifying 
+this is a2 file modifying.
+testing the merge conflicts
